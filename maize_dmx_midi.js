@@ -1,6 +1,6 @@
 var midiInput = "MaizeIn";
 
-
+//I'll add more info here when I can remember what each function does.
 function midiNoteOn(ch, note, velocity) {
 	 var bank = ui.getCurrentPage();
 	if (note == 1) {
